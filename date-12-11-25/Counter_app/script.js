@@ -15,7 +15,7 @@ let count = 0;
       count++;
       updateDisplay();
     }
-
+ 
     function reset() {
       count = 0;
       updateDisplay();
